@@ -1,5 +1,5 @@
 # GIS.py
-Google Images Search
+Google Images Search - Tools for dorking with google images
 
 ![Image description](https://github.com/im-hanzou/gis/raw/master/gis.png)
 
