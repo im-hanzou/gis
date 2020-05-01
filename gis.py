@@ -21,7 +21,7 @@ def scrap(args):
 
 print("./Hanzou > Google Images Search\n")
 dorks = input("Your Dork : ")
-print("result saved > gis.txt\n")
+print("result will saved in gis.txt\n")
 
 for dork in dorks:
   scrap(dorks)
